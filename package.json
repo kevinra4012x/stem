@@ -1,0 +1,26 @@
+{
+  "name": "segundo-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "google-translate-api-x": "^10.7.2",
+    "html-to-text": "^9.0.5",
+    "mathjs": "^14.5.0",
+    "node-fetch": "^2.7.0",
+    "node-summary": "^1.2.0",
+    "puppeteer-core": "^24.9.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.2",
+    "whatsapp-web.js": "^1.28.0",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
